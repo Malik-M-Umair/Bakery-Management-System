@@ -1,5 +1,5 @@
-
-Bakery Management System!
+**
+Bakery Management System!**
 
 This program is designed to efficiently manage and analyze bakery operations. Users can input customer orders, view order summaries, check remaining stock, and view order history.
 
@@ -20,7 +20,8 @@ Order History:
 
 The program maintains a history of all orders placed during the session, allowing users to review past orders and the total cost of all items purchased.
 How to Build the Program
-Step 1: Set up your development environment
+
+**Step 1: Set up your development environment**
 
 Ensure you have a C++ compiler installed on your system. Options include GCC for Linux, MinGW for Windows, or Xcode Command Line Tools for macOS.
 
