@@ -1,5 +1,5 @@
 
-Bakery Management System
+Bakery Management System!
 
 This program is designed to efficiently manage and analyze bakery operations. Users can input customer orders, view order summaries, check remaining stock, and view order history.
 
